@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aayush Sharma</h1>
-<h3 align="center">Enthusiastic about AI/ML particularly about NLP field</h3>
+<h3 align="center">Enthusiastic about AI/ML field</h3>
 <img allign="right" alt="Machine Learning" width="400" src="https://miro.medium.com/v2/resize:fit:1358/0*Yb_BsikIKFAtuKj9.gif>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aayushsharma205&label=Profile%20views&color=0e75b6&style=flat" alt="aayushsharma205" /> </p>
